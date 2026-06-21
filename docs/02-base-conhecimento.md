@@ -3,13 +3,13 @@
 > [!TIP]
 > **Prompt usado para esta etapa:**
 > 
-> Organize a base de conhecimento do agente "Edu" usando os 4 arquivos da pasta `data/` (em anexo). Explique pra que serve cada arquivo e monte um exemplo de contexto formatado que será enviado pro LLM. Preencha o template abaixo.
+> Organize a base de conhecimento do agente "Aifi" usando os 4 arquivos da pasta `data/` (em anexo). Explique pra que serve cada arquivo e monte um exemplo de contexto formatado que será enviado pro LLM. Preencha o template abaixo.
 >
 > [cole ou anexe o template `02-base-conhecimento.md` pra contexto]
 
 ## Dados Utilizados
 
-| Arquivo | Formato | Para que serve no Edu? |
+| Arquivo | Formato | Para que serve no Aifi? |
 |---------|---------|---------------------|
 | `historico_atendimento.csv` | CSV | Contextualizar interações anteriores, ou seja, dar continuidade ao atendimento de forma mais eficiente. |
 | `perfil_investidor.json` | JSON | Personalizar as explicações sobre as dúvidas e necessidades de aprendizado do cliente. |
@@ -22,7 +22,7 @@
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-O produto Fundo Imobiliário (FII) substituiu o Fundo Multimercado, pois pessoalmente me sinto mais confiante em usar apenas produtos financeiros que eu conheço. Assim, poderei validar as respostas do Edu de forma mais assertiva.
+O produto Fundo Imobiliário (FII) substituiu o Fundo Multimercado, pois pessoalmente me sinto mais confiante em usar apenas produtos financeiros que eu conheço. Assim, poderei validar as respostas do Aifi de forma mais assertiva.
 
 ---
 
