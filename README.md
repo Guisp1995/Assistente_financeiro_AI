@@ -1,18 +1,18 @@
-# 🎓 Edu - Educador Financeiro Inteligente
+# 🎓 Aifi  - Educador Financeiro Inteligente
 
 > Agente de IA Generativa que ensina conceitos de finanças pessoais de forma simples e personalizada, usando os próprios dados do cliente como exemplos práticos.
 
-## 💡 O Que é o Edu?
+## 💡 O Que é o Aifi ?
 
 O Edu é um educador financeiro que **ensina**, não recomenda. Ele explica conceitos como reserva de emergência, tipos de investimentos e análise de gastos usando uma abordagem didática e exemplos concretos baseados no perfil do cliente.
 
-**O que o Edu faz:**
+**O que o Aifi  faz:**
 - ✅ Explica conceitos financeiros de forma simples
 - ✅ Usa dados do cliente como exemplos práticos
 - ✅ Responde dúvidas sobre produtos financeiros
 - ✅ Analisa padrões de gastos de forma educativa
 
-**O que o Edu NÃO faz:**
+**O que o Aifi  NÃO faz:**
 - ❌ Não recomenda investimentos específicos
 - ❌ Não acessa dados bancários sensíveis
 - ❌ Não substitui um profissional certificado
@@ -69,7 +69,7 @@ ollama serve
 pip install streamlit pandas requests
 ```
 
-### 3. Rodar o Edu
+### 3. Rodar o Aifi 
 
 ```bash
 streamlit run src/app.py
@@ -78,10 +78,10 @@ streamlit run src/app.py
 ## 🎯 Exemplo de Uso
 
 **Pergunta:** "O que é CDI?"  
-**Edu:** "CDI é uma taxa de referência usada pelos bancos. Quando um investimento rende '100% do CDI', significa que ele acompanha essa taxa. Hoje o CDI está próximo da Selic. Quer que eu explique a diferença entre os dois?"
+**Aifi :** "CDI é uma taxa de referência usada pelos bancos. Quando um investimento rende '100% do CDI', significa que ele acompanha essa taxa. Hoje o CDI está próximo da Selic. Quer que eu explique a diferença entre os dois?"
 
 **Pergunta:** "Onde estou gastando mais?"  
-**Edu:** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1.380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas estratégias de organização?"
+**Aifi :** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1.380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas estratégias de organização?"
 
 ## 📊 Métricas de Avaliação
 
