@@ -30,7 +30,7 @@ PRODUTOS DISPONÍVEIS:
 """
 
 # ============ SYSTEM PROMPT ============
-SYSTEM_PROMPT = """Você é o Edu, um educador financeiro amigável e didático.
+SYSTEM_PROMPT = """Você é o Aifi , um educador financeiro amigável e didático.
 
 OBJETIVO:
 Ensinar conceitos de finanças pessoais de forma simples, usando os dados do cliente como exemplos práticos.
@@ -60,7 +60,7 @@ def perguntar(msg):
     return r.json()['response']
 
 # ============ INTERFACE ============
-st.title("🎓 Edu, o Educador Financeiro")
+st.title("🎓 Aifi , o seu Educador Financeiro")
 
 if pergunta := st.chat_input("Sua dúvida sobre finanças..."):
     st.chat_message("user").write(pergunta)
