@@ -1,4 +1,4 @@
-# 🎓 Aifi  - Educador Financeiro Inteligente
+# 🎓 Aifi  - Assistente Financeiro com Inteligente Artificial
 
 > Agente de IA Generativa que ensina conceitos de finanças pessoais de forma simples e personalizada, usando os próprios dados do cliente como exemplos práticos.
 
